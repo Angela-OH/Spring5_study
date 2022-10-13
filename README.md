@@ -13,5 +13,5 @@
 * 이후 Spring을 사용하여 백엔드 프로젝트(API 제작) 진행해보기
 
 ## 3. 참고 도서
-![image](https://user-images.githubusercontent.com/68039209/195506059-7882deb1-bc80-45ae-b4db-b2d03e39fd57.png)
 * 초보 웹 개발자를 위한 스프링5 프로그래밍 입문
+![image](https://user-images.githubusercontent.com/68039209/195506059-7882deb1-bc80-45ae-b4db-b2d03e39fd57.png)
